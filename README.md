@@ -49,4 +49,4 @@ Added single quotes to 'Calibri' in benefits and content-info classes
 
  "Additional Edits"
 
-live  url " file:///Users/odneybleus/Desktop/projects/challenge1/Develop/index.html"
+live  url " https://obleus.github.io/Horiseon_Code_Refactoring/
